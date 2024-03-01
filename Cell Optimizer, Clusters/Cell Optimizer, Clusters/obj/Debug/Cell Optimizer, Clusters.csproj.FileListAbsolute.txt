@@ -1,0 +1,8 @@
+C:\Users\stefa\OneDrive\Документи\Programming\Cell Optimizer, Clusters\Cell Optimizer, Clusters\bin\Debug\Cell Optimizer, Clusters.exe.config
+C:\Users\stefa\OneDrive\Документи\Programming\Cell Optimizer, Clusters\Cell Optimizer, Clusters\bin\Debug\Cell Optimizer, Clusters.exe
+C:\Users\stefa\OneDrive\Документи\Programming\Cell Optimizer, Clusters\Cell Optimizer, Clusters\bin\Debug\Cell Optimizer, Clusters.pdb
+C:\Users\stefa\OneDrive\Документи\Programming\Cell Optimizer, Clusters\Cell Optimizer, Clusters\obj\Debug\Cell Optimizer, Clusters.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Документи\Programming\Cell Optimizer, Clusters\Cell Optimizer, Clusters\obj\Debug\Cell Optimizer, Clusters.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\OneDrive\Документи\Programming\Cell Optimizer, Clusters\Cell Optimizer, Clusters\obj\Debug\Cell Optimizer, Clusters.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Документи\Programming\Cell Optimizer, Clusters\Cell Optimizer, Clusters\obj\Debug\Cell Optimizer, Clusters.exe
+C:\Users\stefa\OneDrive\Документи\Programming\Cell Optimizer, Clusters\Cell Optimizer, Clusters\obj\Debug\Cell Optimizer, Clusters.pdb
